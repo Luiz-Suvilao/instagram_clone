@@ -8,3 +8,5 @@ const  Routes = createAppContainer(
 		Feed
 	})
 );
+
+export default Routes;

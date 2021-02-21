@@ -3,9 +3,7 @@ import { View, Text } from 'react-native';
 
 const App = () => {
 	return (
-		<View>
-			<Text> Feed </Text>
-		</View>
+		<View />
 	);
 };
 
